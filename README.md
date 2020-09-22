@@ -6,8 +6,11 @@
 - 打卡结果微信推送💬
 - 随机温度(36.2℃-36.5℃)🌡
 - 校内打卡三次:06:05,12:35,21:05🕑
+
 **Github Actions定时任务可能出现几分钟的误差**
+
 **推荐迁移到腾讯云云函数，修改`input()`为对应字符串后设置定时触发器即可**
+
 ## 更新日志
 
 部分老版本可能存在打卡失败 Gateway timeout 504错误，建议更新新版本。
@@ -60,5 +63,13 @@ Fork的项目->Settings->Action->I understand... 开启Actions
 
 https://github.com/YooKing/HAUT_autoCheck - 学习Python语法参考
 
-https://github.com/LovelyWhite/Haut-AutoCheckin - iOS捷径版
+https://github.com/LovelyWhite/Haut-AutoCheckin - iOS捷径版  
+
+   
+   
+   
+   
+   
+   
+   
 
